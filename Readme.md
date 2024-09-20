@@ -195,3 +195,5 @@ Finally, the entire analysis session may be downloaded here. The resulting file 
 ### Advanced usage- custom contaminants lists
 
 Users running QProMS locally may edit the contaminants list used by the app for non-MaxQuant searches by editing the contents of the file contaminants.R in apps/static with IDs matching those found in the results table.
+
+go
